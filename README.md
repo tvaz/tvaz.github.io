@@ -1,3 +1,8 @@
+# Just a personal site!
+
+<!--
+Original shiori readme...
+
 Unfortunately, this project is **no longer maintained**.
 
 I now have other priorities in my life and no longer have time to update this library. Email me at elle.kasai@gmail.com if you'd like to reach me.
@@ -149,3 +154,4 @@ If you want to make category pages, you must manually push the generated `_site`
 ### License
 
 [MIT License](http://ellekasai.mit-license.org/)
+-->
