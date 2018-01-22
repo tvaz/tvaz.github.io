@@ -1,0 +1,31 @@
+baseurl: "" # The subpath of the site.
+url: "http://tvaz.github.io" # the base hostname & protocol for your site
+title: "Tori Vaz"
+
+# This is used by feed.xml. Uncomment if you want to use it.
+# description: "..."
+
+gems:
+  - jemoji
+exclude:
+  - "README.md"
+  - "CHANGELOG.md"
+  - "CNAME"
+  - "Gemfile"
+  - "Gemfile.lock"
+permalink: :title
+collections:
+  gallery:
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

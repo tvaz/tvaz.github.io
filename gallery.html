@@ -1,0 +1,8 @@
+---
+
+---
+{% for img in site.gallery limit:10 %}
+<div class="image">
+  <img src ="{{ img.image_path }}" class="gallery-entry">
+</div>
+{% endfor %}
