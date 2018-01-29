@@ -4,8 +4,6 @@ title:  "Chana Masala"
 date:   2018-01-22 6:00:00 -0800
 categories: recipe
 ---
-[masala]: https://www.leannebrown.com/wp-content/uploads/2015/03/xchana-masala-1024x680.jpeg.pagespeed.ic.CVkLxBeuL6.webp
-[book]:https://www.leannebrown.com/wp-content/themes/openkitchen/images/xgood-and-cheap-sidebar-1x.jpg.pagespeed.ic.fyxqvr8mwd.webp
 
 If there's a cookbook out there worth me gushing over here, it's [Leanne Brown's *Good and Cheap*](https://www.leannebrown.com/). It's a cookbook that prioritizes accessibility, variety and frugality in a way that a lot of cookbooks just can't measure up to. A lot of "healthy college cookbooks" have cheap recipes, yes- but honestly, as someone who invested in several during her college years, none were very useful. Often the recipes were so simple it barely merited a page (fried egg on ramen, anybody?) and other recipes didn't even work, especially baked goods. I imagine that these were barely tested. They didn't inspire or challenge me in the way I am looking for. I hope those books served somebody well, but I wanted more.
 
@@ -21,3 +19,6 @@ Has anyone else tried recipes from this book? It's quickly becoming my bible for
 
 Until next time,
 Tori Vaz
+
+[masala]: https://www.leannebrown.com/wp-content/uploads/2015/03/xchana-masala-1024x680.jpeg.pagespeed.ic.CVkLxBeuL6.webp
+[book]:https://www.leannebrown.com/wp-content/themes/openkitchen/images/xgood-and-cheap-sidebar-1x.jpg.pagespeed.ic.fyxqvr8mwd.webp

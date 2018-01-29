@@ -5,11 +5,6 @@ date:   2018-01-28 7:00:00 -0700
 categories: games
 ---
 
-[shrumbo]:https://ooblets.com/images/TSvuZip.gif
-[ooblets]:https://ooblets.com/images/Metatag_image.jpg
-[garden]:https://ooblets.com/images/all-crops-1.jpg
-[forever]:http://farm4.static.flickr.com/3581/3486753797_692d80bc86.jpg
-
 Games with a cutesy, earnest cartoon charm and soft, bright color palettes are among some of my favorites. Games like *Katamari Demacy* and its successors, with their crisp lines and minimalist models, allow for some really clean looking techniques for displaying ridiculous amounts of chaos and clutter.
 
 ![forever]
@@ -26,3 +21,8 @@ The official answer is that it is slated sometime for 2018, but as a species we 
 
 ![shrumbo]
 *Shrumbo is my favorite lil boy.*
+
+[shrumbo]:https://ooblets.com/images/TSvuZip.gif
+[ooblets]:https://ooblets.com/images/Metatag_image.jpg
+[garden]:https://ooblets.com/images/all-crops-1.jpg
+[forever]:http://farm4.static.flickr.com/3581/3486753797_692d80bc86.jpg
