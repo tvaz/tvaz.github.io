@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Ooblets!"
+date:   2018-01-28 7:00:00 -0700
+categories: games
+---
+
+[shrumbo]:https://ooblets.com/images/TSvuZip.gif
+[ooblets]:https://ooblets.com/images/Metatag_image.jpg
+[garden]:https://ooblets.com/images/all-crops-1.jpg
+[forever]:http://farm4.static.flickr.com/3581/3486753797_692d80bc86.jpg
+
+Games with a cutesy, earnest cartoon charm and soft, bright color palettes are among some of my favorites. Games like *Katamari Demacy* and its successors, with their crisp lines and minimalist models, allow for some really clean looking techniques for displaying ridiculous amounts of chaos and clutter.
+
+![forever]
+
+When I think about what I love about the upcoming game *Ooblets*, *Katamari*'s art style comes to mind. being made by Rebecca Cordingley ([@nonplayercat](http://twitter.com/nonplayercat)) and Ben ([@perplamps](http://twitter.com/perplamps)). Self-described as a "Harvest Moon meets Pokémon meets Animal Crossing", the player will be able to grow and raise adorable vegetable friends called Ooblets, hanging out on the farm and also meeting other farmers in battle.
+
+![ooblets]
+
+I'm particularly excited to play the *Harvest Moon*-esque farming aspect of the game. I've poured many long hours into *Harvest Moon* (and more recently, *Stardew Valley*), and so far the farms and crops look extremely cute. The fact I can customize my character, house and farm never hurts either. That by itself would have sold me on the game, but it's just half the package here- you also get to raise dozens of tiny little creatures that follow you around like Pikmin. When is this game coming out again?
+
+![garden]
+
+The official answer is that it is slated sometime for 2018, but as a species we are completely unable to make trustworthy claims about game release dates. So, I imagine the real answer is closer to "whenever it's finished"-- though it seems as if the devs are very busy trying to stick to that deadline in this case. At any rate, I'm really excited to see the release! I would recommend following Rebecca on twitter, or checking out her awesome [Patreon](http://patreon.com/nonplayercat), where all kinds of cute updates get posted.
+
+![shrumbo]
+*Shrumbo is my favorite lil boy.*
