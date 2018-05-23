@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Adult-ing"
+date:   2018-05-23 18:30:00 -0700
+categories:
+---
+
+It's already been two years since I graduated, but my picture of where I would be today back in 2016 is pretty different than where I am now. I'm happy to report that I have, as of this week, finally accepted a full-time position as a web developer, but the milestone, while very exciting, is a little bittersweet when I think back to the big dreams when I finalized my exit from undergraduate life.
+
+I was met with a competitive job market, and it was tough to push past the feelings of self-doubt that started to form after being left adrift interview after interview. Every time an opportunity arose, it felt like even if I put tons of effort into applications, phone calls, and interviews, I was left with not even so much as a response. When I did get a response, it was usually automated- "You didn't make the cut for a real person to bother with spending time reviewing your resume."
+
+These types of applications demand a tremendous amount of personal attention from the applicant, but the volume prohibits hiring managers from granting the same courtesy- I found myself half-heartedly clicking through application websites that sometimes barely even functioned. One company site deleted my entire application with an error message every time I got to the last page, which led me in a Sisyphusian loop several times before I finally ceded defeat. Whenever I got excited about an opportunity, it ended in disappointment.
+
+I expected it for the first six months or so after I graduated, but after lenders of student loans started to send me bills every month, I started to feel a lot of pressure and despair. It felt like I would never be able to justify all the time I spent in college- I took restaurant jobs to pay the rent, which sapped my energy to pursue any career goals. I started to consider just going back to culinary school, since I knew I could cook and it was starting to feel like no one would give me a chance as a developer.
+
+My brain didn't help. With ADHD, there's a trait called "rejection-sensitive dysphoria" (RSD)- an intense negative feedback response to being rejected from things. You get fixated on an idea, and when that thing doesn't pan out because of what feels like a personal failing or mistake, you start to develop a really strong aversion to doing that thing anymore. For example, when I'm playing video games, if I fail a task, I might get this feeling so strongly I can't continue. There are a lot of factors, but specific examples might be dying at a hard boss more than once- it feels like you've failed, and the RSD feeling can make it miserable to keep going. I ran into something similar with job applications- I would put in a lot of effort for applications, and when the effort was wasted or I was rejected, I just did not feel like doing that thing anymore and over time, I eventually stopped altogether.
+
+It's not a conscious thing, either- I told myself I would apply to some new jobs soon, I still combed job sites and even got interested in positions- but instead of applying, I would procrastinate or just talk myself out of it by reading the listings: "Well, I don't have much experience in this skill they are looking for, I don't want to waste my time with this job." - a lot of thoughts like that.
+
+These kinds of behaviors, as you might imagine, make job hunting extremely difficult. I had to work through a lot of these instincts my brain has to avoid wasted effort and rejection in order to be able to seek out jobs. In fact, the inciting action of me finding this job was actually me getting fired from my previous one. Without the shelter of barely making it paycheck to paycheck, I was forced to redouble my efforts to kickstart my sleeping career.
+
+Lately I've been wondering what I could have done differently to get here to the starting line sooner, but...I really don't know. I guess I would have sought out more job resources earlier, and maybe tried to push network connections harder than online applications- unless you are a super genius whose resume will float to the top algorithmically, I really *do not think you can find a programming job from an online application alone.* Unless you have an in at the company, it really feels like these applications are largely filtered out and all positions are filled through network contacts. You'll hear that over 70% of job openings are not posted online- do not scoff at that statistic!
+
+Well, I've went through a lot of self-doubt to get here, and I'm sure there's much more in my future, but I am going to try to remain excited about where I am and what I can accomplish here. Tori out! :sparkle:
