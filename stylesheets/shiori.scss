@@ -181,6 +181,34 @@ h3 {
   }
 }
 
+.ups-banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:5px;
+  margin-bottom:5px;
+  width:50px;
+  height:50px;
+}
+.techladiesbanner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:5px;
+  margin-bottom:5px;
+  width:50%;
+  height:50%;
+}
+.acmwbanner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:5px;
+  margin-bottom:5px;
+  width:30%;
+  height:30%;
+}
+
 @media(max-width: $screen-xs-max) {
   .navbar-header {
     text-align: center;
