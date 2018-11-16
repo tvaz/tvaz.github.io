@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Scribble"
+title:            "Tori Vaz"
 description:      "Such theme, very cool."
-url:              http://scribble.muan.co # Site url, without a slash at the end.
-signoff:          "muan" # Your name
+url:              http://torivaz.com # Site url, without a slash at the end.
+signoff:          "tvaz" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
