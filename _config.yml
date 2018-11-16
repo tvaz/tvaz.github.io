@@ -1,24 +1,29 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Tori Vaz"
-description:      "Such theme, very cool."
+title:            "tori vaz"
+description:      "a personal site"
 url:              http://torivaz.com # Site url, without a slash at the end.
-signoff:          "Tori" # Your name
+signoff:          "tori" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
+  - name:         posts
     url:          /
     external:     false
-  - name:         About me
+  - name:         about
     url:          /about
     external:     false
-  - name:         Podcasts
+  - name:         podcasts
     url:          /podcasts
     external:     false
+  - name:         panels
+    url:          /panels
+    external:     false
+  - name:         cv
+    url:          /cv
+    external:     false
 # ------------ CONFIGURABLE END ------------
-
 permalink:        /posts/:title
 defaults:
   - values:

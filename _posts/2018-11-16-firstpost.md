@@ -1,6 +1,6 @@
 ---
-title: Lorem Ipsum Dolor Sit Amet Consectetur Elit
-date: 2018-11-16 0:0:0
+title: First Post
+date: 2018-11-16 5:30:0
 ---
 
 I am a placeholder post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
