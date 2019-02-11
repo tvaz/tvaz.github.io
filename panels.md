@@ -1,6 +1,15 @@
 ---
 title: Panels
 ---
+<html>
+<style>
+img {
+  width: 431px;
+  height: 324px;
+}
+</style>
+</html>
+
 
 ## Legend of Zelda
 
@@ -13,12 +22,12 @@ title: Panels
 ![Zelda Timeline][timeline]
 
 ### Speaking Hylian: Scripts and Syllabaries in *The Legend of Zelda*
-*Sakura-con 2017*
+*Sakura-con 2017*  
 ![Speaking Hylian][hylian]
 
 ## Pokemon
 ### Pokemon: Spirits, Ghosts & Gods
-*Sakura-con 2016, 2017*
+*Sakura-con 2016, 2017*  
 ![Pokemon][pkmn]
 
 [lozmyth]: images/lozmyth.png
