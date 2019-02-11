@@ -3,7 +3,7 @@ title: Panels
 ---
 <html>
 <style>
-img {
+img[alt=slide] {
   width: 431px;
   height: 324px;
 }
@@ -14,21 +14,21 @@ img {
 ## Legend of Zelda
 
 ### Lore and Legend: Myth in *The Legend of Zelda*
-*Sakura-con 2016*
-![Lore and Legend][lozmyth]
+*Sakura-con 2016*  
+![slide][lozmyth]
 
 ### Zelda Timeline 101
 *Sakura-con 2017*  
-![Zelda Timeline][timeline]
+![slide][timeline]
 
 ### Speaking Hylian: Scripts and Syllabaries in *The Legend of Zelda*
 *Sakura-con 2017*  
-![Speaking Hylian][hylian]
+![slide][hylian]
 
 ## Pokemon
 ### Pokemon: Spirits, Ghosts & Gods
 *Sakura-con 2016, 2017*  
-![Pokemon][pkmn]
+![slide][pkmn]
 
 [lozmyth]: images/lozmyth.png
 [timeline]: images/timeline.png
