@@ -10,6 +10,10 @@ img[alt=slide] {
 </style>
 </html>
 
+This is an overview of all of the panels I have led at anime/video game conventions. Currently, I am only active at [Sakura-con](https://sakuracon.org) but I would love to try visiting some other cons with my panels in the future!
+
+I currently cannot make the full slides available for download, but if you have a question about a panel I've given feel free to shoot me an [email](about)!
+
 
 ## Legend of Zelda
 
