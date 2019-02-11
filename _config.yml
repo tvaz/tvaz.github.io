@@ -23,6 +23,9 @@ links:
   - name:         cv
     url:          /cv
     external:     false
+  - name:	  the omen chronicles
+    url:	  https://www.omenchroniclescomic.com/
+    external:	  true
 # ------------ CONFIGURABLE END ------------
 permalink:        /posts/:title
 defaults:

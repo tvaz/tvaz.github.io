@@ -1,10 +1,9 @@
 ---
 title: About
 ---
-[under construction]
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+Hello! My name is Tori Vaz. I am a programmer and artist. I love cooking and video games. Thanks for visiting my site.
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+I'm passionate about internet freedom, libraries, and free & open-source software. I love to talk about video games (especially Legend of Zelda!) and you can check out my [podcast](podcasts) or come see me at one of my convention [panels](panels) if you like to hear about that kind of thing.
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+To get into contact with me, shoot me an email at [torivaz@protonmail.com](mailto:torivaz@protonmail.com).
