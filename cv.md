@@ -40,5 +40,5 @@ University of Puget Sound, 2012-2016
 
 [Omen Chronicles](https://omenchroniclescomic.com) - Python application built on Flask/SQLAlchemy.
 
-[Japanese Culture Panel Series]("panels") - Series of various panels on topics in Japanese pop culture, mostly related to Nintendo games. Held at local anime & japanese culture convention. 
+[Japanese Culture Panel Series](panels) - Series of various panels on topics in Japanese pop culture, mostly related to Nintendo games. Held at local anime & japanese culture convention. 
 
