@@ -5,7 +5,7 @@ title: CV
 thinking of getting in touch? send me an [email](mailto:torivaz@protonmail.com) with details about your position, and I can provide a formal CV and contact information for references.
 
 ## education :mortar_board:
-BS in Computer Science and Japanese Language & Culture
+BS in Computer Science and Japanese Language & Culture  
 University of Puget Sound, 2012-2016
 
 ## skills :v:
