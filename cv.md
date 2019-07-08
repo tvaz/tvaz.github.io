@@ -11,6 +11,8 @@ University of Puget Sound, 2012-2016
 ## skills :v:
 - python
 - AWS/EC2
+- linux/bash
+- RESTful APIs/connectors
 - Databases/SQL
 - java
 - javascript
@@ -26,19 +28,18 @@ University of Puget Sound, 2012-2016
 - scripting languages (Python :heart:)
 - networking
 - backend web programming
-- containers
+- containers & orchestrators (docker/kubernetes)
 
 ## hobbies :love_letter:
 - video games & gamedev
 - podcasts (recording & listening)
-- crossword puzzles (NYT streak as of 02/13/19: 135)
+- crossword puzzles
 - indie comics (creating & reading)
 - hiking, botany & wild plant foraging
 - cooking (vegetables :heart:)
 
 ## personal projects
 
-[Omen Chronicles](https://omenchroniclescomic.com) - Python application built on Flask/SQLAlchemy.
+[Omen Chronicles](https://omenchroniclescomic.com) - Python application built on Flask/SQLAlchemy to host a webcomic.
 
-[Japanese Culture Panel Series](panels) - Series of various panels on topics in Japanese pop culture, mostly related to Nintendo games. Held at local anime & japanese culture convention. 
-
+[Japanese Culture Panel Series](panels) - Series of various panels on topics in Japanese pop culture, mostly related to Nintendo games. Held at local anime & japanese culture conventions.
