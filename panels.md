@@ -31,7 +31,7 @@ I currently cannot make the full slides available for download, but if you have 
 
 ## Pokemon
 ### Pokemon: Spirits, Ghosts & Gods
-*Sakura-con 2016, 2017*  
+*Sakura-con 2016, 2017, 2019*  
 ![slide][pkmn]
 
 [lozmyth]: images/lozmyth.png
