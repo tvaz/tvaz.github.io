@@ -1,37 +1,11 @@
 ---
-title: First Post
-date: 2018-11-16 5:30:0
+title: Panel Page update!
+date: 2019-10-09 8:30:0
 ---
 
-I am a placeholder post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+I have gotten my panels approved for [Kumori-con 2019](https://www.kumoricon.org/)!
+I do not have specific schedule information yet, but when the final schedule is posted I will update this site accordingly.
+I no longer live in the Seattle area, so I am very excited to do my panels for the Portland community! I will likely be attending Sakura-con as well next year in 2020, but nothing concrete yet.
 
-> Sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Abore et dolore magna aliqua. Ut enim ad minim veniam, quis.
->
-> – Akei Yue
 
-1. List with code
-
-    ```
-    not highlighted
-    multi line
-    ```
-
-2. List with code
-    ```javascript
-    var dom = document.getElementById('boom')
-    console.log(dom);
-    ```
-
----
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-```html
-<dialog>
-  <header>Headsup</header>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-  <button type="button" class="js-close-dialog">Close</button>
-</dialog>
-```
+[![Kumori-con](https://www.kumoricon.org/images/header-logo.png "Kumori-con")](https://www.kumoricon.org/)
