@@ -17,10 +17,12 @@ I currently cannot make the full slides available for download, but if you have 
 
 ## Legend of Zelda
 
+### The History of Ads and Promos for Legend of Zelda
+*Kumori-con 2019*
+<!--![slide][lozpromos]-->
 ### Lore and Legend: Myth in *The Legend of Zelda*
 *Sakura-con 2016*  
 ![slide][lozmyth]
-
 ### Zelda Timeline 101
 *Sakura-con 2017*  
 ![slide][timeline]
@@ -31,10 +33,12 @@ I currently cannot make the full slides available for download, but if you have 
 
 ## Pokemon
 ### Pokemon: Spirits, Ghosts & Gods
-*Sakura-con 2016, 2017, 2019*  
+*Sakura-con 2016, 2017, 2019*
+*Kumori-con 2019*
 ![slide][pkmn]
 
 [lozmyth]: images/lozmyth.png
+[lozpromos]: images/lozpromos.png
 [timeline]: images/timeline.png
 [hylian]: images/hylianscripts.png
 [pkmn]: images/pkmn.png
