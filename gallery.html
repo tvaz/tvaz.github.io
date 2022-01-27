@@ -1,12 +1,74 @@
 ---
 title: Gallery
 permalink: "gallery/index.html"
+permalink: "gallery.html"
+layout: default
+original:
+  - image_path: /images/gallery/titania.png
+    title: Titania
+  - image_path: /images/gallery/oberon.png
+    title: Oberon
+  - image_path: /images/gallery/deer.png
+    title: Deer
+  - image_path: /images/gallery/mushpixie.jpg
+    title: Mush Pixie
+loz:
+ - image_path: /images/gallery/linkcandle.jpeg
+   title: Link Candle
+ - image_path: /images/gallery/linkocto.jpg
+   title: Link Octo
+ - image_path: /images/gallery/fi.png
+   title: Fi
+comms:
+  - image_path: /images/gallery/commicon_1.png
+    title: Icon 1
+  - image_path: /images/gallery/commicon_2.png
+    title: Icon 2
+  - image_path: /images/gallery/comm_ex.png
+    title: Icon 1
 ---
 <a class="twitter-timeline" data-dnt="true" data-theme="light" data-link-color="#e07280" href="https://twitter.com/pinkrupee?ref_src=twsrc%5Etfw">Tweets by pinkrupee</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!--
 {% for img in site.gallery limit:10 %}
 <div class="image">
   <img src ="{{ img.image_path }}" class="gallery-entry">
+<div class="gallery">
+<h1>
+  Original Art
+</h1>
+
+  {% for image in page.original %}
+    <div class="gallery_entry">
+      <img class="gallery_image"
+           src="{{ image.image_path }}" alt="{{ image.title}}"/>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="gallery">
+<h1>
+  Legend of Zelda Fanart
+</h1>
+
+  {% for image in page.loz %}
+    <div class="gallery_entry">
+      <img class="gallery_image"
+           src="{{ image.image_path }}" alt="{{ image.title}}"/>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="gallery">
+<h1>
+  Commissions
+</h1>
+
+  {% for image in page.comms %}
+    <div class="gallery_entry">
+      <img class="gallery_image"
+           src="{{ image.image_path }}" alt="{{ image.title}}"/>
+    </div>
+  {% endfor %}
 </div>
 {% endfor %}
 -->
