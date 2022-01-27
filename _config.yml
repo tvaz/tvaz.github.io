@@ -8,24 +8,18 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         posts
+  - name:         home
     url:          /
     external:     false
   - name:         about
     url:          /about
     external:     false
-  - name:         podcasts
-    url:          /podcasts
-    external:     false
-  - name:         panels
-    url:          /panels
+  - name:         projects
+    url:          /projects
     external:     false
   - name:         cv
     url:          /cv
     external:     false
-  - name:	  the omen chronicles
-    url:	  https://www.omenchroniclescomic.com/
-    external:	  true
 # ------------ CONFIGURABLE END ------------
 permalink:        /posts/:title
 defaults:

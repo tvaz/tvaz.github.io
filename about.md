@@ -2,8 +2,12 @@
 title: About
 ---
 
-Hello! My name is Tori Vaz. I am a programmer and artist. I love cooking and video games. Thanks for visiting my site.
+TORI VAZ
 
-I'm passionate about internet freedom, libraries, and free & open-source software. I love to talk about video games (especially Legend of Zelda!) and you can check out my [podcast](podcasts) or come see me at one of my convention [panels](panels) if you like to hear about that kind of thing.
+Welcome to my site.
+
+My goal was to host some of my independent projects and showcase some of my work. Hopefully I will be able to add more interesting information to this site as it evolves.
+
+I love creative pursuits like crochet, tailoring, illustration, cooking, and origami. I studied Japanese culture in university and have a special passion for Japanese culture and translation. I also am a skilled web programmer who is currently working on some interesting projects, so stay tuned for information on those!
 
 To get into contact with me, shoot me an email at [torivaz@protonmail.com](mailto:torivaz@protonmail.com).

@@ -2,24 +2,24 @@
 title: CV
 ---
 
-## interests :star:
+## interests
+- free & open-source software
 - distributed software/blockchain
-- free & open-source
-- nonprofit
-- networking
 - backend web programming
-- containers
+- containerization and infrastructure-as-code
+- cloud engineering
+
 
 ## skills
 - python
-- server admin
+- flask
+- terraform
 - java
 - javascript
+- git
+- SQL and ORMs
+- japanese-to-english translation
 
-## personal projects
-
-[Omen Chronicles](https://omenchroniclescomic.com) - Python application built on Flask/SQLAlchemy
-
-## education 
+## education
 BS in Computer Science and Japanese Language & Culture  
 University of Puget Sound, 2012-2016
