@@ -29,13 +29,13 @@ I currently cannot make the full slides available for download, but if you have 
 
 ### Speaking Hylian: Scripts and Syllabaries in *The Legend of Zelda*
 *Sakura-con 2017*  
-*Kumori-con 2024*
+*Kumori-con 2024*  
 ![slide][hylian]
 
 ## Pokemon
 ### Pokemon: Spirits, Ghosts & Gods
 *Sakura-con 2016, 2017, 2019*  
-*Kumori-con 2019, 2024*
+*Kumori-con 2019, 2024*  
 ![slide][pkmn]
 
 [lozmyth]: images/lozmyth.png
