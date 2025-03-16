@@ -4,7 +4,6 @@ title: CV
 
 ## interests
 - free & open-source software
-- distributed software/blockchain
 - backend web programming
 - containerization and infrastructure-as-code
 - cloud engineering
@@ -14,10 +13,14 @@ title: CV
 - python
 - flask
 - terraform
-- java
-- javascript
+- java, scala
+- javascript, typescript
+- ruby
 - git
 - SQL and ORMs
+- noSQL
+- AWS frameworks - ec2, ecs, cloudformation, dynamoDB
+- full-stack development
 - japanese-to-english translation
 
 ## education

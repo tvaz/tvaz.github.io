@@ -8,6 +8,10 @@ I love to visit my local community Anime and Video Game conventions in the Pacif
 
 [My Panels](panels)
 
+# Streaming
+
+You can find my streaming content on my [Twitch channel](https://www.twitch.tv/pinkrupee) as well as my [YouTube](https://www.youtube.com/@pinkrupee). As of now it is mostly video game streaming content but I may branch out in the future.
+
 # Zines
 
 I occasionally do illustration, and I'm proud to have a few illustrations in the Faces of Evil zine, a Legend of Zelda fanzine.
