@@ -10,7 +10,7 @@ img[alt=slide] {
 </style>
 </html>
 
-This is an overview of all of the panels I have led at anime/video game conventions. Currently, I am only active at [Sakura-con](https://sakuracon.org) but I would love to try visiting some other cons with my panels in the future!
+This is an overview of all of the panels I have led at anime/video game conventions. I used to be active at [Sakura-con](https://sakuracon.org) in Seattle, WA. Currently, I am only active at [Kumori-con](https://kumoricon.org) in Portland, OR.
 
 I currently cannot make the full slides available for download, but if you have a question about a panel I've given feel free to shoot me an [email](about)!
 
@@ -18,7 +18,7 @@ I currently cannot make the full slides available for download, but if you have 
 ## Legend of Zelda
 
 ### The History of Ads and Promos for Legend of Zelda
-*Kumori-con 2019*
+*Kumori-con 2019*  
 <!--![slide][lozpromos]-->
 ### Lore and Legend: Myth in *The Legend of Zelda*
 *Sakura-con 2016*  
@@ -29,12 +29,13 @@ I currently cannot make the full slides available for download, but if you have 
 
 ### Speaking Hylian: Scripts and Syllabaries in *The Legend of Zelda*
 *Sakura-con 2017*  
+*Kumori-con 2024*
 ![slide][hylian]
 
 ## Pokemon
 ### Pokemon: Spirits, Ghosts & Gods
-*Sakura-con 2016, 2017, 2019*
-*Kumori-con 2019*
+*Sakura-con 2016, 2017, 2019*  
+*Kumori-con 2019, 2024*
 ![slide][pkmn]
 
 [lozmyth]: images/lozmyth.png
