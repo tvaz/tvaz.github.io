@@ -20,6 +20,12 @@ links:
   - name:         cv
     url:          /cv
     external:     false
+  - name:         gallery
+    url:          /gallery
+    external:     false
+  - name:         recipes
+    url:          /recipes
+    external:     false
 # ------------ CONFIGURABLE END ------------
 permalink:        /posts/:title
 defaults:

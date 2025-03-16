@@ -1,0 +1,42 @@
+<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+    
+    .image-container {
+        width: 200px; /* Set your desired square width */
+        height: 200px; /* Set your desired square height */
+        overflow: hidden; /* Hide any overflowing image content */
+        position: relative; /* For positioning the image within the container */
+    }
+
+    .square-image {
+        width: 100%; /* Make the image fill the container width */
+        height: 100%; /* Make the image fill the container height */
+        object-fit: cover; /* Crop and scale the image to fit the container */
+        position: absolute; /* Position the image within the container */
+        top: 0;
+        left: 0;
+    }
+
+    .desc {
+        text-align: center;
+    }
+</style>
+
+<div class="desc">
+here is a selection of some of my illustrations.
+</div>
+
+<ul class="image-gallery">{% for file in site.static_files %}
+    {% if file.path contains include.folder %}{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' or file.extname == '.png' or file.extname == '.PNG' %}
+    {% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
+    <li>
+        <a href="{{ file.path | relative_url }}" title="{{ filename }}">
+            <div class="image-container">
+                <img src="{{ file.path | relative_url }}" title="{{ filename }}" alt="{{ filename }}" class="square-image"/>
+            </div>
+        </a>
+    </li>{% endif %}{% endif %}{% endfor %}</ul>

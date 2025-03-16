@@ -33,35 +33,6 @@
 }
 /* end Markdown styles */
 
-.gallery {
-  display: block;
-  clear: left;
-}
-
-.gallery_entry {
-  margin: 5px;
-  height: 200px;
-  width: 200px;
-  border: thin solid black;
-  float: left;
-  position: relative;
-  overflow: hidden;
-}
-
-.gallery_image {
-  position: absolute;
-  top: -9999px;
-  left: -9999px;
-  right: -9999px;
-  bottom: -9999px;
-  margin: auto;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-.gallery_image:hover {opacity: 0.7;}
-
-
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
