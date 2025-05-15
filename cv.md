@@ -27,12 +27,12 @@ BS in Computer Science and Japanese Language & Culture
 University of Puget Sound, 2012-2016
 
 ## volunteer
-**Kumori-con**
-***2023, 2024, 2025***
-Panel Technician
-Outreach Assistant
-Gamestorm Event Assistant
+**Kumori-con**  
+***2023, 2024, 2025***  
+Panel Technician  
+Outreach Assistant  
+Gamestorm Event Assistant  
 
-**Vancouver Farmers Market**
-***Summer 2019***
-Market Volunteer
+**Vancouver Farmers Market**  
+***Summer 2019***  
+Market Volunteer  
