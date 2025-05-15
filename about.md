@@ -12,4 +12,7 @@ I love creative pursuits like crochet, tailoring, illustration, cooking, and ori
 
 To get into contact with me, shoot me an email at [torivaz@protonmail.com](mailto:torivaz@protonmail.com).
 
-If you want to connect on my socials, I am currently only active on Instagram: [@torimoris](https://instagram.com/torimoris)
+If you want to connect on my socials, I am currently active on Instagram and BlueSky:
+
+[@torimoris](https://instagram.com/torimoris)
+[@birdiefungi](https://bsky.app/profile/birdiefungi.bsky.social)
