@@ -14,5 +14,5 @@ To get into contact with me, shoot me an email at [torivaz@protonmail.com](mailt
 
 If you want to connect on my socials, I am currently active on Instagram and BlueSky:
 
-[@torimoris](https://instagram.com/torimoris)
-[@birdiefungi](https://bsky.app/profile/birdiefungi.bsky.social)
+[@torimoris](https://instagram.com/torimoris)  
+[@birdiefungi](https://bsky.app/profile/birdiefungi.bsky.social)  
