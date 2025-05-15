@@ -26,6 +26,9 @@ links:
   - name:         recipes
     url:          /recipes
     external:     false
+  - name:        crochet
+    url:          /crochet
+    external:     false
 # ------------ CONFIGURABLE END ------------
 permalink:        /posts/:title
 defaults:
