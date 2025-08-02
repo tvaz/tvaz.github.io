@@ -13,6 +13,9 @@ links:
   - name:         home
     url:          /
     external:     false
+  - name:         blog
+    url:          /blog
+    external:     false
   - name:         about
     url:          /about
     external:     false
