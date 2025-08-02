@@ -2,11 +2,10 @@
 layout: default
 title: Recipes
 ---
-
 <ul>
-  {% for post in site.posts %}
+  {% for recipe in site.recipes %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ recipe.url }}">{{ recipe.title }}</a>
     </li>
   {% endfor %}
 </ul>
