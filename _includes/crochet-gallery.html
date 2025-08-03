@@ -1,0 +1,137 @@
+<div class="gallery-container">
+    <div class="gallery">
+        <a href="#fuyuko" title="Fuyuko the Kitsune Plush Doll">
+            <img src="images/crochet/fuyuko.jpg" title="Fuyuko the Kitsune Plush Doll" alt="white and blue fox kitsune plush doll photo" class="thumbnail"/>
+        </a>
+        <a href="#twoheadedbun" title="Two-Headed Bunny Plush Doll  ">
+            <img src="images/crochet/twoheadedbun.jpg" title="Two-Headed Bunny Plush Doll" alt="purple and pink two headed bunny doll photo" class="thumbnail"/>
+        </a>
+        <a href="#venom_spiderman" title="Venom & Spiderman Mini Dolls">
+            <img src="images/crochet/venom_spiderman.jpg" title="Venom & Spiderman Mini Dolls" alt="venom and spiderman superhero mini doll photo" class="thumbnail"/>
+        </a>
+    </div>
+    <!-- Lightbox overlays-->
+    <div id="fuyuko" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <div class="lightbox-gallery">
+            <div class="caption"></div>
+            <span class="arrow left">&#10094;</span>
+            <img class="lightbox-image" src="images/crochet/fuyuko.jpg" alt="white and blue fox kitsune plush doll photo"/>
+            <span class="arrow right">&#10095;</span>
+            <div class="details"></div>
+        </div>
+    </div>
+
+    <div id="twoheadedbun" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <div class="lightbox-gallery">
+            <div class="caption"></div>
+            <span class="arrow left">&#10094;</span>
+            <img class="lightbox-image" src="images/crochet/twoheadedbun.jpg" alt="purple and pink two headed bunny doll photo"/>
+            <span class="arrow right">&#10095;</span>
+            <div class="details"></div>
+        </div>
+    </div>
+    
+    <div id="venom_spiderman" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <div class="lightbox-gallery">
+            <div class="caption"></div>
+            <span class="arrow left">&#10094;</span>
+            <img class="lightbox-image" src="images/crochet/venom_spiderman.jpg" alt="venom and spiderman superhero mini doll photo"/>
+            <span class="arrow right">&#10095;</span>
+            <div class="details"></div>
+        </div>
+    </div>
+<script>
+    const galleryData = [
+    {
+        src: "images/crochet/fuyuko.jpg",
+        caption: "Fuyuko the Kitsune Plush Doll",
+        details: `
+        <p>Pattern: by <a href="https://www.etsy.com/listing/1484920010/digital-download-crochet-amigurumi">PetitePetalsCo</a></p>
+        <p>Materials: Chenille plush yarn, cotton yarn (for ruff)</p>
+        `
+    },
+    {
+        src: "images/crochet/twoheadedbun.jpg",
+        caption: "Two-Headed Bunny Plush Doll",
+        details: `
+        <p>Pattern: by <a href="https://www.etsy.com/listing/1296157338/crochet-pattern-two-headed-plushie-bunny">rinmeow21</a></p>
+        <p>Materials: Chenille plush yarn</p>
+        `
+    },
+    {
+        src: "images/crochet/venom_spiderman.jpg",
+        caption: "Venom & Spiderman Mini Dolls",
+        details: `
+        <p>Patterns: <a href="https://www.etsy.com/listing/1674496456/pdf-file-amigurumi-crochet-pattern-ven0m">Venom</a> and <a href="https://www.etsy.com/shop/SunnyPrincessCrochet">SunnyPrincessCrochet</a></p>
+        <p>Materials: Cotton yarn, embroidery floss and felt</p>
+        `
+    }
+    ];
+
+    document.querySelectorAll('.lightbox').forEach(lightbox => {
+        const closeBtn = lightbox.querySelector('.close');
+        const left = lightbox.querySelector('.arrow.left');
+        const right = lightbox.querySelector('.arrow.right');
+        const img = lightbox.querySelector('.lightbox-image');
+        const caption = lightbox.querySelector('.caption');
+        const details = lightbox.querySelector('.details');
+
+        let currentIndex;
+        
+        // Initialize currentIndex when lightbox is targeted
+        function initializeIndex() {
+            const filename = img.getAttribute('src').split('/').pop();
+            currentIndex = galleryData.findIndex(item => item.src.includes(filename));
+
+            if (currentIndex !== -1) {
+            caption.textContent = galleryData[currentIndex].caption;
+            details.innerHTML = galleryData[currentIndex].details;
+            } else {
+            console.warn('Image not found in galleryData:', filename);
+            }
+        }
+
+        // Listen for hashchange to detect lightbox activation
+        window.addEventListener('hashchange', () => {
+            if (location.hash === `#${lightbox.id}`) {
+            initializeIndex();
+            }
+        });
+
+        // Also fire immediately on page load if the hash matches
+        if (location.hash === `#${lightbox.id}`) {
+            initializeIndex();
+        }
+        
+        function updateImage(index) {
+            console.log("Updating image to index:", index);
+            if (!galleryData[index]) return;
+            img.classList.add('fade-out');
+            setTimeout(() => {
+            img.src = galleryData[index].src;
+            caption.textContent = galleryData[index].caption;
+            details.innerHTML = galleryData[index].details;
+            img.classList.remove('fade-out');
+            }, 300);
+            currentIndex = index;
+        }
+
+        left.addEventListener('click', () => {
+            const newIndex = (currentIndex - 1 + galleryData.length) % galleryData.length;
+            updateImage(newIndex);
+        });
+
+        right.addEventListener('click', () => {
+            const newIndex = (currentIndex + 1) % galleryData.length;
+            updateImage(newIndex);
+        });
+
+        closeBtn.addEventListener('click', () => {
+            lightbox.classList.remove('active');
+        });
+    });
+</script>
+</div>
