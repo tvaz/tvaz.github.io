@@ -14,6 +14,8 @@ This is an overview of all of the panels I have led at anime/video game conventi
 
 I currently cannot make the full slides available for download, but if you have a question about a panel I've given feel free to shoot me an [email](about)!
 
+**Unconfirmed** - I have applied to run my Pokemon panel at Kumori-con 2025. Stay tuned for updates on if my panel is approved for this year.
+
 
 ## Legend of Zelda
 
