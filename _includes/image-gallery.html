@@ -2,28 +2,29 @@
     <div class="desc">
         here is a selection of some of my illustrations.
     </div>
-    {% assign valid_filetypes = ".jpg, .jpeg, .png, .JPG, .JPEG, .PNG" %}
-    {% assign image_files = site.static_files | where_exp: "file", "file.path contains include.folder"%}
-    {% assign image_files = image_files | where_exp: "file", "valid_filetypes contains file.extname" %}
     <div class="gallery">
-    {% for file in image_files %}
-        {% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
-        <a href="#{{ filename }}" title="{{ filename }}">
-            <img src="{{ file.path | relative_url }}" title="{{ filename }}" alt="{{ filename }}" class="thumbnail"/>
+    {% for image in site.data.gallery %}
+        <a href="#{{ image.filename }}" title="{{ image.filename }}">
+            <img src="{{ 'images/gallery/' | append: image.filename | relative_url }}" title="{{ image.title }}" alt="{{ image.description }}" class="thumbnail"/>
         </a>
     {% endfor %}
     </div>
     <!-- Lightbox overlays-->
-    {% for file in image_files %}
-        {% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
-            <div id="{{ filename }}" class="lightbox">
-                <a href="#" class="close">&times;</a>
-                <span class="arrow left">&#10094;</span>
-                    <img class="lightbox-image" src="{{ file.path | relative_url }}" alt="{{ filename}}">
-                <span class="arrow right">&#10095;</span>
-            </div>
+    {% for image in site.data.gallery %}
+    {% assign filename = image.filename | split: "." | first %}
+    <div id="{{ image.filename }}" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <span class="arrow left">&#10094;</span>
+        <img class="lightbox-image" src="{{ 'images/gallery/' | append: image.filename | relative_url }}" alt="{{ image.filename }}">
+        <div class="lightbox-details">
+            <div class="caption">{{ image.title }}</div>
+            <div class="date">{{ image.date | date: "%B %d, %Y" }}</div>
+            <div class="description">{{ image.description }}</div>
+        </div>
+        <span class="arrow right">&#10095;</span>
+    </div>
     {% endfor %}
 </div>
 <script>
-    {% include image-gallery.js image_files=image_files %}
+    {% include image-gallery.js %}
 </script>
