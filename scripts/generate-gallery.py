@@ -41,7 +41,7 @@ def build_gallery_json(image_dir, existing_data):
                 "filename": fname,
                 "title": generate_title(fname),
                 "date": get_image_date(path),
-                "description": ""  # Optional, can be filled later
+                "description": ""
             })
     
     return existing_data + new_entries

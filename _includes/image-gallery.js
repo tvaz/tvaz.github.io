@@ -44,7 +44,6 @@ const galleryData = [
         }
         
       function updateImage(index) {
-        console.log("Updating image to index:", index);
         if (!galleryData[index]) return;
 
         img.classList.add('fade-out');

@@ -23,17 +23,22 @@ document.getElementById("contact-form").addEventListener("submit", async functio
       body: JSON.stringify({ name, email, message })
     });
 
+    responseDiv.textContent = "Sending...";
+    responseDiv.style.color = "gray";
+
     const result = await res.json();
 
     if (res.ok && result.success) {
-      responseDiv.textContent = "Message sent successfully!";
+      responseDiv.textContent = "✅ Message sent successfully!";
       responseDiv.style.color = "green";
+
       document.getElementById("contact-form").reset();
     } else {
       throw new Error(result.error || "Something went wrong.");
     }
   } catch (err) {
-    responseDiv.textContent = err.message;
-    responseDiv.style.color = "red";
+      responseDiv.textContent = "❌ " + err.message;
+      responseDiv.style.color = "red";
+
   }
 });
