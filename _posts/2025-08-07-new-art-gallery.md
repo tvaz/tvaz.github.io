@@ -7,7 +7,7 @@ date: 2025-08-07 13:04:51
 ---
 I have been working slowly on adding more functionality to this website, and most recently I am happy with how my art gallery page updates have been going. I'll walk through how I set this up in case anyone else wants to add something similar to their Jekyll site.
 
-This site is hosted with Github Pages, which means that all of the code for it is available publicly to view in its Github repo: https://github.com/tvaz/tvaz.github.io. I originally based the site on a theme called [Scribble](https://github.com/muan/scribble/), which is unfortunately no longer maintained, but I have made some changes over time to suit my needs.
+This site is hosted with Github Pages, which means that all of the code for it is available publicly to view in its Github repo: [https://github.com/tvaz/tvaz.github.io]. I originally based the site on a theme called [Scribble](https://github.com/muan/scribble/), which is unfortunately no longer maintained, but I have made some changes over time to suit my needs.
 
 First, I added some images I wanted to include to the a directory in the Jekyll root under `images/gallery/`. At first, I just iterated through all of the files in this directory and displayed them, but that left me without any way to add useful metadata such as descriptions and titles for the images. A database would be overkill for the size of this site, so I decided a flat file storage as a JSON would be sufficient to hold this data.
 
