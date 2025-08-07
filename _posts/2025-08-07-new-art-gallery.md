@@ -15,7 +15,7 @@ Before we can add the metadata, we need to generate the basic JSON structure. I 
 
 Here is the key logic of the script:
 
-```
+```py
 def build_gallery_json(image_dir, existing_data):
     existing_filenames = {entry['filename'] for entry in existing_data}
     new_entries = []
