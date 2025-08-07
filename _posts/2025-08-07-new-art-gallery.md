@@ -37,7 +37,8 @@ The script stores this data in `_data/gallery.json`. Once generated, description
 
 Now that we have this data all tidy in a JSON, the JavaScript in the gallery page can consume it and take care of all of the DOM manipulation to make the lightbox work.
 
-```
+```js
+{% raw %}
 const galleryData = [
   {% for image in site.data.gallery %}
     {
@@ -48,10 +49,12 @@ const galleryData = [
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ];
+{% endraw %}
 ```
 
 The HTML can show the image thumbnails by iterating through the data:
-```
+```html
+{% raw %}
     <div class="gallery">
     {% for image in site.data.gallery %}
         <a href="#{{ image.filename }}" title="{{ image.filename }}">
@@ -59,10 +62,11 @@ The HTML can show the image thumbnails by iterating through the data:
         </a>
     {% endfor %}
     </div>
+{% endraw %}
 ```
 
 Then, we can create an updateImage function that will change the currently focused image in the lightbox:
-```
+```js
       function updateImage(index) {
         if (!galleryData[index]) return;
 
