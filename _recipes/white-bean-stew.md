@@ -15,7 +15,7 @@ This is a simple stew of white beans with bacon and Italian flavors. Don't leave
 - 3 tbsp white wine
 - 2 cans white beans, or 3 cups
 - 4 cups chicken broth
-- 1 parmesan cheeese rind
+- 1 Parmesan cheese rind
 - 1 tsp dried rosemary
 - 1 tsp dried oregano or marjoram
 - 1 bay leaf
@@ -38,7 +38,7 @@ I once made this with a can of spinach instead of fresh spinach, it made the ste
 1. Heat a dutch oven over medium heat. Add olive oil and bacon and stir about five minutes.
 2. Add onion, celery, and garlic, with chili flakes and some salt and pepper. Stir for about five more minutes.
 3. Deglaze with the white wine and let reduce for a few minutes. Add broth and beans, as well as the herbs, lemon zest, cheese rind, salt and pepper. Bring to a boil, then lower to a simmer for about 25 minutes.
-4. Add the spinach and lemon juice. Season to taste, and cook the spinach for about five minutes.
+4. Add the spinach and lemon juice. Season to taste, and cook the spinach for about five minutes. Remove cheese rind and bay leaf.
 5. Top bowls with grated Parmesan and parsley and serve with crusty bread.
 
 # Further reading
