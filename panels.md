@@ -17,12 +17,12 @@ I currently cannot make the all full slides available for download, but if you h
 # Kumori-con 2026
 # Pokemon Folklore and Legend Slides
 
-[Download Slides](/_assets/kumori-con-2026-pokemon-folklore-and-legends-tori-vaz.pdf)
+### [Download Slides](/_assets/kumori-con-2026-pokemon-folklore-and-legends-tori-vaz.pdf)
 
 ## Pokemon
 ### Pokemon: Folklore and Legends
 *Sakura-con 2016, 2017, 2019*  
-*Kumori-con 2019, 2024, 2026*
+*Kumori-con 2019, 2024, 2026*  
 ![slide][pkmn]
 
 [lozmyth]: images/lozmyth.png
