@@ -12,9 +12,25 @@ img[alt=slide] {
 
 This is an overview of all of the panels I have led at anime/video game conventions. I used to be active at [Sakura-con](https://sakuracon.org) in Seattle, WA. Currently, I am only active at [Kumori-con](https://kumoricon.org) in Portland, OR.
 
-I currently cannot make the full slides available for download, but if you have a question about a panel I've given feel free to shoot me an [email](about)!
+I currently cannot make the all full slides available for download, but if you have a question about a panel I've given feel free to shoot me an [email](about)!
 
-**Unconfirmed** - I have applied to run my Pokemon panel at Kumori-con 2025. Stay tuned for updates on if my panel is approved for this year.
+# Pokemon Folklore and Legend 2026 Slides Available Here
+
+[pkmn]: images/kumo26pkmn.png
+
+- [Download Slides](/_assets/kumori-con-2026-pokemon-folklore-and-legends-tori-vaz.pdf)
+
+## Pokemon
+### Pokemon: Folklore and Legends
+*Sakura-con 2016, 2017, 2019*  
+*Kumori-con 2019, 2024, 2026*
+![slide][pkmn]
+
+[lozmyth]: images/lozmyth.png
+[lozpromos]: images/lozpromos.png
+[timeline]: images/timeline.png
+[hylian]: images/hylianscripts.png
+[pkmn]: images/kumo26pkmn.png
 
 
 ## Legend of Zelda
@@ -33,15 +49,3 @@ I currently cannot make the full slides available for download, but if you have 
 *Sakura-con 2017*  
 *Kumori-con 2024*  
 ![slide][hylian]
-
-## Pokemon
-### Pokemon: Spirits, Ghosts & Gods
-*Sakura-con 2016, 2017, 2019*  
-*Kumori-con 2019, 2024*  
-![slide][pkmn]
-
-[lozmyth]: images/lozmyth.png
-[lozpromos]: images/lozpromos.png
-[timeline]: images/timeline.png
-[hylian]: images/hylianscripts.png
-[pkmn]: images/pkmn.png
