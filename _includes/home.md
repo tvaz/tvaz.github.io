@@ -1,6 +1,6 @@
 
 # Pokemon Folklore and Legend 2026 Slides Available Here
-[My Panels](panels)
+### [Download Slides](pkmnkumo2026)
 
 ## Hi, I’m Tori~ welcome to my corner of the internet.
 

@@ -14,16 +14,12 @@ This is an overview of all of the panels I have led at anime/video game conventi
 
 I currently cannot make the all full slides available for download, but if you have a question about a panel I've given feel free to shoot me an [email](about)!
 
-# Kumori-con 2026
-# Pokemon Folklore and Legend Slides
-
-### [Download Slides](/_assets/kumori-con-2026-pokemon-folklore-and-legends-tori-vaz.pdf)
-
 ## Pokemon
 ### Pokemon: Folklore and Legends
 *Sakura-con 2016, 2017, 2019*  
 *Kumori-con 2019, 2024, 2026*  
 ![slide][pkmn]
+- [Download Slides Here](pkmnkumo2026)
 
 [lozmyth]: images/lozmyth.png
 [lozpromos]: images/lozpromos.png
