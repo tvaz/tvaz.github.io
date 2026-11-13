@@ -1,3 +1,7 @@
+
+# Pokemon Folklore and Legend 2026 Slides Available Here
+[My Panels](panels)
+
 ## Hi, I’m Tori~ welcome to my corner of the internet.
 
 I’m an IT Support Specialist based in Beaverton, Oregon. I focus on clear communication, calm problem‑solving, and helping people feel confident in their technology. I support Windows, macOS, Microsoft 365, Active Directory, networking fundamentals, and general endpoint troubleshooting across both enterprise and MSP‑style environments.
