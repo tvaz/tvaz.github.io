@@ -1,6 +1,7 @@
 ---
 title: Awase Dashi
 date: 2025-03-16 16:9:00
+tags: [soup, japanese]
 ---
 
 If you are making any kind of Japanese soup or even most sauces, you will need either instant dashi granules, or to make your own dashi stock. This is a basic dashi recipe that works well.

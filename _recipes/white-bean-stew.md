@@ -1,6 +1,7 @@
 ---
 title: White Bean Stew
 date: 2026-06-13 23:07:0
+tags: [stew, beans]
 ---
 
 This is a simple stew of white beans with bacon and Italian flavors. Don't leave out the parmesan rind!

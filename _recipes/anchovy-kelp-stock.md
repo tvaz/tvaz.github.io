@@ -1,6 +1,7 @@
 ---
 title: Anchovy Kelp Stock
 date: 2025-05-15 12:19:0
+tags: [soup, korean]
 ---
 
 This is a stock made from anchovies and dried kelp, which is used in a lot of Korean recipes.
