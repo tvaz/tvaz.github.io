@@ -19,13 +19,13 @@ I currently cannot make the all full slides available for download, but if you h
 *Sakura-con 2016, 2017, 2019*  
 *Kumori-con 2019, 2024, 2026*  
 ![slide][pkmn]
-- [Download Slides Here](pkmnkumo2026)
+- [Download Slides Here](/panels/pkmnkumo2026)
 
-[lozmyth]: images/lozmyth.png
-[lozpromos]: images/lozpromos.png
-[timeline]: images/timeline.png
-[hylian]: images/hylianscripts.png
-[pkmn]: images/kumo26pkmn.png
+[lozmyth]: /images/lozmyth.png
+[lozpromos]: /images/lozpromos.png
+[timeline]: /images/timeline.png
+[hylian]: /images/hylianscripts.png
+[pkmn]: /images/kumo26pkmn.png
 
 
 ## Legend of Zelda

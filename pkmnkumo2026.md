@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /panels/pkmnkumo2026/
 ---
 
 <html>
@@ -19,11 +20,11 @@ img[alt=slide] {
 
 <div class="download-button-container">
   <a class="download-button"
-     href="assets/kumori-con-2026-pokemon-folklore-and-legends-tori-vaz.pdf">
+     href="/assets/kumori-con-2026-pokemon-folklore-and-legends-tori-vaz.pdf">
     📄 Download Slides (PDF)
   </a>
 </div>
 
-[pkmn]: images/kumo26pkmn.png
+[pkmn]: /images/kumo26pkmn.png
 
 ![slide][pkmn]
